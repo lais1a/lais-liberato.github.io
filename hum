@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Bem-vindo ao Meu Mundo</title>
+</head>
+<body>
+
+   <h1>Olá, eu sou a Laís </h1>
+     <p>Bem-vindo ao meu site pessoal! Eu sou de Lupionópolis, Paraná, Brasil. Aqui você encontrará informações sobre mim, meus projetos e como entrar em contato.</p>
+        <img src="https://via.placeholder.com/150" alt="Minha Foto">
+
+<h2>Um pouco do que gosto</h2>
+<p> Gosto de literatura antiga, comida gostosa e cochilar quando posso. Adoro cafézinho preto, estudo, assisto dvd´s e vejo vídeos sobre arte e filosofia</p>
+<p> Minha playlist de músicas é diversificada, gosto de Músicas anos 80, pagode, nu-metal, pop, rock, indie, forró, sertanejo e as antigas da Jovem Pan</p>
+<h3> como entrar em contato:<h3>
+<p> Você pode tentar pelo meu Facebook: https://www.facebook.com/lais.liberato.9275 ou no meu instagram: lais.liberato.9275
+
+<h4> Muito Obrigada!</h4>
+
+</body>
+</html>
